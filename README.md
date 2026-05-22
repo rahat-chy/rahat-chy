@@ -1,10 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hi 👋, I'm Rahat Chowdhury</h1>
-<h3 align="center">I am a software engineer and an enthusiast problem solver</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-chy&label=Profile%20views&color=0e75b6&style=flat" alt="rahat-chy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">I am a senior software engineer and an enthusiast problem solver</h3>
 
 - 📫 How to reach me **rahatchowdhury3455@gmail.com**
 
